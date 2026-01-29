@@ -1,0 +1,242 @@
+{
+  "Apple__Apple_scab": {
+    "cause": "Fungus Venturia inaequalis thriving in cool, wet conditions",
+    "symptoms": "Olive-green or brown spots on leaves and fruits leading to cracking and deformation",
+    "treatment": "Spray fungicides like mancozeb or captan; prune affected parts",
+    "prevention": "Use resistant varieties, remove fallen leaves, and ensure good air circulation"
+  },
+  "Apple_Black_rot": {
+    "cause": "Fungus Botryosphaeria obtusa",
+    "symptoms": "Purple or brown leaf spots, fruit rot with concentric rings, branch dieback",
+    "treatment": "Prune infected limbs, apply fungicides, and destroy infected fruit",
+    "prevention": "Remove mummified fruits and maintain orchard sanitation"
+  },
+  "Apple_Cedar_apple_rust": {
+    "cause": "Fungus Gymnosporangium juniperi-virginianae spread from cedar trees",
+    "symptoms": "Yellow-orange leaf spots and fruit deformities",
+    "treatment": "Use fungicides like myclobutanil, and remove nearby cedar hosts",
+    "prevention": "Avoid planting apples near junipers, and apply fungicide sprays during spring"
+  },
+  "Banana leaf healthy": {
+    "cause": "No infection \u2013 indicates a healthy banana leaf",
+    "symptoms": "Bright green color, smooth texture, no spots or wilting",
+    "treatment": "Not applicable",
+    "prevention": "Maintain proper watering, fertilization, and pest control"
+  },
+  "Banana Scab Moth": {
+    "cause": "Larvae of Nacoleia octasema feeding on fruit surfaces",
+    "symptoms": "Scabby marks and blemishes on banana skins, especially near the crown",
+    "treatment": "Use pheromone traps and insecticides; remove infested fruit",
+    "prevention": "Bag banana bunches early and monitor for moth activity"
+  },
+  "Banana_Black Leaf Streak": {
+    "cause": "Fungus Pseudocercospora fijiensis (Black Sigatoka)",
+    "symptoms": "Dark streaks on leaves, yellowing, and premature leaf death reducing yield",
+    "treatment": "Apply systemic fungicides and remove infected leaves",
+    "prevention": "Plant resistant cultivars and ensure good field drainage"
+  },
+  "Banana_Black Sigatoka": {
+    "cause": "Fungus Mycosphaerella fijiensis spread by wind and rain",
+    "symptoms": "Dark brown streaks on leaves progressing to necrotic patches",
+    "treatment": "Use fungicides containing propiconazole or mancozeb",
+    "prevention": "Prune old leaves and avoid overcrowding for better air flow"
+  },
+  "Banana_Panama Disease": {
+    "cause": "Soil-borne fungus Fusarium oxysporum f.sp. cubense",
+    "symptoms": "Wilting, yellowing of older leaves, and vascular discoloration",
+    "treatment": "No chemical cure; remove infected plants and avoid replanting in infested soil",
+    "prevention": "Use resistant banana varieties and practice crop rotation"
+  },
+  "Banana_pestalotiopsis": {
+    "cause": "Fungus Pestalotiopsis microspora infecting weakened tissue",
+    "symptoms": "Small brown spots with yellow halos on leaves leading to necrosis",
+    "treatment": "Apply copper-based fungicides and improve field hygiene",
+    "prevention": "Avoid leaf injury and maintain balanced nutrition"
+  },
+  "Corn (maize)_healthy": {
+    "cause": "No infection \u2013 indicates a healthy maize plant",
+    "symptoms": "Green leaves, upright growth, and no visible lesions or rust",
+    "treatment": "Not applicable",
+    "prevention": "Maintain proper crop spacing, irrigation, and nutrient balance"
+  },
+  "Corn(maize)Cercospora_leaf_spot Gray_leaf_spot": {
+    "cause": "Fungus Cercospora zeae-maydis thriving in warm, humid conditions",
+    "symptoms": "Gray to tan rectangular lesions on leaves reducing photosynthesis",
+    "treatment": "Apply fungicides like strobilurins or triazoles; rotate crops",
+    "prevention": "Use resistant hybrids, and manage crop debris after harvest"
+  },
+  "Corn(maize)Common_rust": {
+    "cause": "Fungus Puccinia sorghi spread by windborne spores",
+    "symptoms": "Reddish-brown pustules on both sides of leaves",
+    "treatment": "Use resistant varieties; apply fungicides if severe",
+    "prevention": "Plant early to escape high infection periods and use rust-tolerant hybrids"
+  },
+  "Corn_(maize)Northern_Leaf_Blight": {
+    "cause": "Fungus Exserohilum turcicum",
+    "symptoms": "Long, cigar-shaped gray lesions on leaves that may coalesce and kill tissue",
+    "treatment": "Use fungicides and remove infected residues",
+    "prevention": "Plant resistant hybrids and rotate with non-host crops"
+  },
+  "Grape_Black_rot": {
+    "cause": "Fungus Guignardia bidwellii spread by rain splash and wind",
+    "symptoms": "Dark brown leaf spots with black edges, shriveled mummified berries",
+    "treatment": "Spray fungicides like captan or myclobutanil; remove infected fruit",
+    "prevention": "Prune regularly, destroy mummified berries, and maintain vineyard sanitation"
+  },
+  "Grape_Esca(Black_Measles)": {
+    "cause": "Complex of fungi including Phaeomoniella chlamydospora and Phaeoacremonium aleophilum",
+    "symptoms": "Tiger-stripe leaf pattern, dark streaks in wood, and berry shriveling",
+    "treatment": "Prune infected vines below diseased wood and apply fungicidal trunk sprays",
+    "prevention": "Avoid pruning during wet weather and disinfect pruning tools"
+  },
+  "Grape__Leaf_blight(Isariopsis_Leaf_Spot)": {
+    "cause": "Fungus Pseudocercospora vitis",
+    "symptoms": "Small angular brown spots that enlarge and cause premature leaf fall",
+    "treatment": "Spray with copper-based fungicides or mancozeb",
+    "prevention": "Ensure good air circulation and avoid overhead irrigation"
+  },
+  "Hibiscus_Healthy_Leaf": {
+    "cause": "No infection \u2013 indicates a healthy hibiscus leaf",
+    "symptoms": "Glossy green leaves with no yellowing, spotting, or curling",
+    "treatment": "Not applicable",
+    "prevention": "Maintain proper sunlight, watering, and soil nutrition"
+  },
+  "Hibiscus_Leaf Scorch or Drought Stress": {
+    "cause": "Lack of water or extreme heat causing tissue dehydration",
+    "symptoms": "Brown edges, curling, and dry brittle leaves",
+    "treatment": "Increase watering frequency and provide shade during hot hours",
+    "prevention": "Mulch soil and maintain consistent watering schedule"
+  },
+  "Hibiscus_Nitrogen Deficiency": {
+    "cause": "Insufficient nitrogen in soil",
+    "symptoms": "Yellowing of older leaves and stunted growth",
+    "treatment": "Apply nitrogen-rich fertilizer such as urea or composted manure",
+    "prevention": "Conduct regular soil testing and maintain balanced fertilization"
+  },
+  "Hibiscus_Watering Issues and Environmental Stress": {
+    "cause": "Overwatering, underwatering, or rapid environmental changes",
+    "symptoms": "Leaf drop, yellowing, or wilting despite healthy roots",
+    "treatment": "Adjust watering habits and ensure proper soil drainage",
+    "prevention": "Use well-draining soil and protect from sudden temperature shifts"
+  },
+  "Potato__Early_blight": {
+    "cause": "Fungus Alternaria solani thriving in warm, humid weather",
+    "symptoms": "Dark concentric spots on lower leaves leading to leaf drop and reduced yield",
+    "treatment": "Apply fungicides like chlorothalonil or mancozeb and remove infected debris",
+    "prevention": "Use resistant varieties, rotate crops, and avoid overhead irrigation"
+  },
+  "Potato_Late_blight": {
+    "cause": "Pathogen Phytophthora infestans spread by wind and rain",
+    "symptoms": "Water-soaked lesions on leaves, white mold on undersides, and tuber rot",
+    "treatment": "Spray systemic fungicides such as metalaxyl or copper oxychloride",
+    "prevention": "Plant certified disease-free seed and destroy cull piles"
+  },
+  "Rose_Rust": {
+    "cause": "Fungus Phragmidium mucronatum",
+    "symptoms": "Orange or rust-colored pustules on leaf undersides causing defoliation",
+    "treatment": "Remove infected leaves and apply sulfur or copper-based fungicides",
+    "prevention": "Ensure good air circulation and avoid overhead watering"
+  },
+  "Rose_healthy": {
+    "cause": "No infection \u2013 indicates a healthy rose plant",
+    "symptoms": "Dark green leaves, firm stems, and healthy blooming flowers",
+    "treatment": "Not applicable",
+    "prevention": "Provide adequate sunlight, nutrients, and pest management"
+  },
+  "Rose_sawfly_Rose_slug": {
+    "cause": "Larvae of sawflies feeding on leaf surfaces",
+    "symptoms": "Skeletonized leaves appearing transparent or windowed",
+    "treatment": "Spray insecticidal soap or neem oil; handpick larvae if few",
+    "prevention": "Inspect leaves regularly and encourage natural predators like ladybugs"
+  },
+  "Tomato Insect Damage": {
+    "cause": "Feeding by insects such as caterpillars, aphids, or whiteflies",
+    "symptoms": "Chewed leaves, holes in fruit, and distorted new growth",
+    "treatment": "Use insecticidal soap, neem oil, or biological control agents",
+    "prevention": "Monitor regularly and use pest-resistant tomato varieties"
+  },
+  "Tomato Leaf Miner": {
+    "cause": "Larvae of Tuta absoluta burrowing into leaves",
+    "symptoms": "White serpentine mines on leaves leading to drying and death",
+    "treatment": "Apply neem-based insecticides or pheromone traps",
+    "prevention": "Remove infested leaves and use insect-proof nets"
+  },
+  "Tomato healthy": {
+    "cause": "No infection \u2013 indicates a healthy tomato plant",
+    "symptoms": "Green upright leaves, firm stems, and healthy fruit set",
+    "treatment": "Not applicable",
+    "prevention": "Provide balanced fertilizer, proper sunlight, and pest management"
+  },
+  "Tomato_Bacterial_spot": {
+    "cause": "Bacteria Xanthomonas campestris pv. vesicatoria",
+    "symptoms": "Small dark spots on leaves and fruits that enlarge and scab",
+    "treatment": "Apply copper-based bactericides and remove infected tissue",
+    "prevention": "Use certified seed and avoid working in wet fields"
+  },
+  "Tomato_Early_blight": {
+    "cause": "Fungus Alternaria solani",
+    "symptoms": "Dark concentric rings on older leaves and premature leaf drop",
+    "treatment": "Spray fungicides like mancozeb or chlorothalonil",
+    "prevention": "Rotate crops and maintain good field sanitation"
+  },
+  "Tomato_Late_blight": {
+    "cause": "Pathogen Phytophthora infestans",
+    "symptoms": "Water-soaked leaf lesions with white mold underneath, fruit rot",
+    "treatment": "Use fungicides like copper oxychloride or metalaxyl",
+    "prevention": "Destroy infected debris and avoid overhead irrigation"
+  },
+  "Tomato_Leaf_Mold": {
+    "cause": "Fungus Passalora fulva thriving in high humidity",
+    "symptoms": "Yellow spots on upper leaf surfaces and olive-green mold underneath",
+    "treatment": "Improve ventilation and apply fungicides like chlorothalonil",
+    "prevention": "Avoid overcrowding and water plants at soil level"
+  },
+  "Tomato_Septoria_leaf_spot": {
+    "cause": "Fungus Septoria lycopersici",
+    "symptoms": "Small circular leaf spots with dark borders and gray centers",
+    "treatment": "Remove infected leaves and use copper-based fungicides",
+    "prevention": "Rotate crops and avoid wetting foliage"
+  },
+  "Tomato_Spider_mites Two-spotted_spider_mite": {
+    "cause": "Infestation by Tetranychus urticae mites",
+    "symptoms": "Yellow speckling, webbing on undersides, and leaf drying",
+    "treatment": "Spray miticides or neem oil; increase humidity",
+    "prevention": "Avoid dry dusty conditions and monitor regularly"
+  },
+  "Tomato_Target_Spot": {
+    "cause": "Fungus Corynespora cassiicola",
+    "symptoms": "Circular leaf spots with dark concentric rings resembling targets",
+    "treatment": "Apply fungicides and remove lower infected leaves",
+    "prevention": "Ensure good air circulation and avoid water splash"
+  },
+  "Tomato_Tomato_Yellow_Leaf_Curl_Virus": {
+    "cause": "Spread by whiteflies (Bemisia tabaci)",
+    "symptoms": "Upward curling and yellowing of leaves, stunted growth",
+    "treatment": "Remove infected plants and control whiteflies with insecticides",
+    "prevention": "Use virus-free seeds and resistant varieties"
+  },
+  "Tomato__Tomato_mosaic_virus": {
+    "cause": "Tobamovirus spread by mechanical contact or contaminated tools",
+    "symptoms": "Mottled, mosaic-like leaves with deformation and reduced yield",
+    "treatment": "Remove infected plants and disinfect tools",
+    "prevention": "Use resistant varieties and avoid handling when plants are wet"
+  },
+  "apple_healthy": {
+    "cause": "No infection \u2013 indicates a healthy apple tree",
+    "symptoms": "Green, glossy leaves and well-formed, spot-free fruits",
+    "treatment": "Not applicable",
+    "prevention": "Ensure balanced nutrition, proper pruning, and pest management"
+  },
+  "grapes_healthy": {
+    "cause": "No infection \u2013 indicates a healthy grapevine",
+    "symptoms": "Bright green leaves, firm stems, and clean fruit clusters",
+    "treatment": "Not applicable",
+    "prevention": "Maintain good vineyard hygiene and proper irrigation"
+  },
+  "potato_healthy": {
+    "cause": "No infection \u2013 indicates a healthy potato plant",
+    "symptoms": "Green upright foliage and well-developed tubers without spots or rot",
+    "treatment": "Not applicable",
+    "prevention": "Use certified seed potatoes and maintain disease-free soil"
+  }
+}
